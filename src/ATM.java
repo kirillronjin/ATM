@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class ATM {
     public static void main(String[] args) throws NoSuchAlgorithmException {
+        System.out.println(1);
         Scanner sc = new Scanner(System.in);
 
         Bank theBank = new Bank("My Bank");
